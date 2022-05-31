@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hectortenor
 - 👀 I’m interested in learning data science
-- 🌱 I’m currently cursing a data science bootcamp (The Bridge)
+- 🌱 I’m currently looking for a data job! (The Bridge)
 - 📫 tenor.hector@gmail.com
 
 <!---
